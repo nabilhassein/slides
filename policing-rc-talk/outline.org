@@ -1,0 +1,169 @@
+#    -*- mode: org -*-
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:t reveal_control:t
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:1
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/reveal.js/3.0.0/
+#+REVEAL_MARGIN: 0.2
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: none
+#+REVEAL_THEME: night
+#+REVEAL_HLEVEL: 3
+
+* On policing
+** Theoretical questions: what even is crime?
+- Who decides what is against the law?
+- Does the law have **ANYTHING** to do with justice?
+** Preliminaries: on the origins of the US
+*** Marx on amerikkka
+"Without slavery you have no cotton; without cotton you have no modern industry.
+It is slavery that has given the colonies their value;
+it is the colonies that have created world trade,
+and it is world trade that is the pre-condition of large-scale industry.
+Thus slavery is an economic category of the greatest importance.
+
+Without slavery North America, the most progressive of countries, would be transformed into a patriarchal country.
+Wipe out North America from the map of the world, and you will have anarchy —
+the complete decay of modern commerce and civilisation.
+Cause slavery to disappear and you will have wiped America off the map of nations."
+*** The one-drop rule
+- If you have any African ancestry, however remote or invisible, you were defined as Black
+- This definition results in larger number of people being classed as Black
+- https://en.wikipedia.org/wiki/One-drop_rule
+- Unfortunately I don't have time to discuss how this played out in the rest of the hemisphere
+*** Native blood quantum
+- If you do not have at least 25% Native American ancestry, the government refuses to recognize your indigeneity
+- This has the effect of fewer people being classed as Native.
+"You will unite yourselves with us and we shall all be Americans.
+ You will mix with us by marriage.
+ Your blood will run in our veins and will spread with us over this great Island.
+" – President Thomas Jefferson, 1808, to visiting Indian delegation
+- DNA and Native American identity: http://www.kimtallbear.com/uploads/5/3/1/5/5315525/tallbear_2009_nmai_essay.pdf
+*** Cause and effect
+- How can these two severely incompatible race-making ideas have coexisted for centuries?
+- Increasing the number of Black folks and decreasing the number of Native folks served settler-colonial capitalism.
+- Racism is not caused by ignorance and hence cannot be cured by logic. Racism is about power.
+- Race has always been about class.
+- For a full discussion see Sakai's "Settlers": https://onkwehonwerising.files.wordpress.com/2013/04/settlers-mythology-of-the-white-proletariat.pdf
+#+REVEAL: split
+- We are not marginalized because they hate us. They hate us because they support a system which needs us to be marginalized.
+- Changing material conditions is more important than changing "hearts and minds".
+- Slavery, Jim Crow, imperialism and theft of land by genocide are the sources of US, mainly white, wealth.
+- Reparations are necessary to address this.
+** Historical answers continued: from slave patrols to "diverse and inclusive" police forces
+*** On the origins of the police
+- London Metropolitan Police: often considered the first professional police force, formed in 1829
+- Considered more effective than the unprofessional watch or the hated army and militia
+- Had its origin in the British colonial occupation of Ireland
+- US police imported this idea, starting from Boston in 1838
+- but cities like Charleston, SC; Savannah, GA; and New Orleans, LA had full-time police in the 1700s
+#+REVEAL: split
+- "They had the power to ride onto private property to insure that slaves were not harboring weapons or fugitives, conducting meetings, or learning to read or write.
+They also played a major role in preventing slaves from escaping to the North through regular patrols on rural roads."
+- "urban patrols became professional as early as the Charleston City Guard and Watch of 1783"
+- Pennsylvania State Police: mainly for union-busting
+- Texas Rangers: mainly to hunt down native populations accused of attacking white settlers
+- https://thenewinquiry.com/the-myth-of-liberal-policing/
+*** Diversity and inclusion in what system: Mike Brown and Freddie Gray
+- Black people are about 3x as likely to be killed by police: http://www.huffingtonpost.com/entry/black-people-more-likely-to-be-shot-by-police_us_585981b6e4b08debb78b7465
+- In Ferguson you had a white mayor, white city council, white dominated police force
+- But in Baltimore you had a Black mayor, majority Black city council, and one of the Blackest police forces in the US
+- Results of all this diversity and inclusion: Black cops killed Freddie Gray  
+- Nicholas Heyward Jr.
+*** On police and gender violence
+- Police commit domestic violence at double the national rate: http://thefreethoughtproject.com/cops-beat-wives-girlfriends-double-national-rate-receive-promotions/
+- Police target sex workers and other vulnerable folks for rape and abuse, e.g. Daniel Holtzclaw
+- The sexual abuse to prison pipeline: http://www.edweek.org/ew/articles/2015/10/14/the-sexual-abuse-to-prison-pipeline.html
+#+REVEAL: split
+- 60% of incarcerated girls are queer and/or trans
+- 84% of girls in detention have a family history of violence before they are detained
+- Sexual abuse is one of the main predictors of girls' entry into the juvenile "justice" system, where sexual assault is pervasive in jails and prisons
+- About 1 in 6 reports lead to arrest; about 1 in 5 arrests are referred to prosectors
+- Half of prosecutions lead to convictions, vs a much higher general conviction rate
+- given this record, it's unsurprising that the majority of rapes go unreported
+*** A perspective
+[[./images/decolonization-reparations.png]]
+*** A Musical Interlude
+- https://www.youtube.com/watch?v=vKypkj9Ggpo
+- that was from 1993
+- NWA 1988: "But don't let it be a black and a white one / ‘Cause they'll slam ya down to the street top / Black police showing out for the white cop"
+*** Abolition vs reform
+- "For liberals, police reform is always a question of helping police sustain their legitimacy, despite their illegitimate roots."
+ - https://thenewinquiry.com/the-myth-of-liberal-policing/
+- "An important abolitionist insight is that most prison reforms tend to actually entrench the prison system and expand its reach. 19th century reformers, for instance, created women’s prisons to ameliorate the brutal conditions faced by women who had to share quarters with men in prison. But the result was that exponentially more women were incarcerated."
+ - https://thenewinquiry.com/free-us-all/
+#+REVEAL: split
+[[./images/aclu-body-cam.png]]
+** Who do you protect, who do you serve?
+*** On Transportation
+- "Broken Windows" largely means quotas for arrests, although NYPD denies it:
+  - http://www.npr.org/2015/04/04/395061810/despite-laws-and-lawsuits-quota-based-policing-lingers
+  - http://gawker.com/heres-audio-of-what-sounds-like-an-nypd-captain-pressur-1783544682
+- Jumping the turnstile ("theft of services") is always among top ten and often the #1 NYC arrest: 
+- 92% were people of color: http://www.nydailynews.com/new-york/nypd-arrests-people-color-fare-beating-stats-article-1.2528320
+- This can lead to severe consequences including deportation: http://gothamist.com/2017/03/31/police_commissioner_admits_turnstil.php
+- #SwipeItForward
+*** On Housing
+- there are ~3 million homeless people in the US vs ~18 million vacant dwellings: https://trofire.com/2015/07/21/3-5-million-americans-are-homeless-18-6-million-homes-in-america-are-standing-empty-what-is-wrong-with-this-picture/
+- NYPD has been stepping up harassment of homeless folks: http://www.nydailynews.com/new-york/homeless-people-advocates-protest-nypd-harassment-article-1.2735988
+- the gentrification to prison pipeline: http://www.truth-out.org/news/item/40413-the-gentrification-to-prison-pipeline
+- This isn't a talk on the role the tech industry plays in gentrification, but there is a clear connection to settler-colonialism.
+*** On Education
+[[./images/school-tardiness-summonses.png]]
+*** On Mental Healthcare and Ableism
+- Kalief Browder: http://www.newyorker.com/magazine/2014/10/06/before-the-law
+- 40% of folks incarcerated on Rikers have mental illness: https://www.nytimes.com/2015/04/12/nyregion/for-mentally-ill-inmates-at-rikers-a-cycle-of-jail-and-hospitals.html
+- much more to say about ableism and policing, e.g. on Deaf prisoners: https://thenewinquiry.com/the-right-to-remain-silent/
+- As many as half of people killed by police have a disability: http://www.teenvogue.com/story/half-of-people-killed-by-police-have-disabilities
+** Predictive policing
+- There's only so much I can say about these models because they're mostly a secret
+- https://thenewinquiry.com/a-predictive-policing-syllabus/
+- https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+*** Garbage in, garbage out
+- who is collecting this crime data?
+[[./images/crime-genetic.png]]
+*** Is non-racist criminology possible?
+- Probably not.
+* Racist technology: elements of long history
+** From biology and medicine
+- http://rebeccaskloot.com/the-immortal-life/
+- https://en.wikipedia.org/wiki/Tuskegee_syphilis_experiment
+- https://www.nature.com/scitable/forums/genetics-generation/america-s-hidden-history-the-eugenics-movement-123919444
+** In the built environment
+- Do Artifacts Have Politics? https://innovate.ucsb.edu/wp-content/uploads/2010/02/Winner-Do-Artifacts-Have-Politics-1980.pdf
+- Spoiler: yes
+** From our industry
+- Huge historical examples: http://www.ibmandtheholocaust.com/
+- Subtler things built into our tools: why so difficult to build this? http://nas.sr/%D9%82%D9%84%D8%A8/
+- Microsoft's racist chatbot Tay: https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist
+#+REVEAL: split
+[[./images/computer-people-for-peace.jpeg]]
+
+** Looking at a few maps
+- 7 major felonies: https://maps.nyc.gov/crime/
+- Compstat: https://compstat.nypdonline.org/
+- Predicting White Collar Crime: https://whitecollar.thenewinquiry.com/
+  - excellent propaganda piece
+  - not sure of uses for on-the-ground organizing
+** What would it mean to train anti-racist machine learning models?
+- Googling "anti-racist machine learning" doesn't turn up much...
+- Automatic text categorisation of racist webpages: http://doras.dcu.ie/17275/
+- Can we go beyond fake-netural "don't be racist" to build models and tools that challenge status quo hierarchies?
+* What does this mean for you?
+** Organizing for abolition
+"As an abolitionist, who believes that we must create the conditions for dismantling prisons, police, and surveillance,
+I’m often asked how to build new institutions that will ensure actual safety.
+My answer is always the same: collective organizing.
+Currently, there are a range of decarceral/anti-carceral strategies being employed across the country to free prisoners, individually and collectively.
+People are organizing for bail reform, taking on individual parole support for prisoners, engaging in court watches, launching mass commutation campaigns,
+and advocating for laws that will offer new pathways for release." - https://thenewinquiry.com/free-us-all/ by Mariame Kaba, aka @prisonculture
+** An appeal to anti-racist technologists
+- Directly building tools like CompStat is active participation in racism
+- Uncritical uses of crime data also (e.g. on real estate / apartment websites) also perpetuate racism
+- Let's go beyond "awareness". How can we organize to stop the criminal "justice" system from using these models?
+- That would take building cross-class social ties between communities like this and communities targeted by police.
+- A lot of attitude changes would be needed, more so from communities like this than those communities.
+#+REVEAL: split
+- Tactics might include boycotts, direct actions at company headquarters, political/legal campaigning,
+shaming and shunning engineers who build these things, technical sabotage through adversarial examples...
+** What would it take? Are we up for it?
