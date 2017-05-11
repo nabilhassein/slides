@@ -1,0 +1,129 @@
+#    -*- mode: org -*-
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:t reveal_control:t
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:1
+#+OPTIONS: ^:nil
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/reveal.js/3.0.0/
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: none
+#+REVEAL_THEME: night
+#+REVEAL_HLEVEL: 999
+#+REVEAL_EXTRA_CSS: ./presentation.css
+* printf
+** In a few languages, right and wrong
+*** C
+for implementation details I need to man 3 va_arg apparently
+#+begin_src C
+#include <stdio.h>
+int main() {
+    printf("hello, %s\n", "world");
+    printf("1 + 1 = %d\n", 2);
+    printf("hello, %d\n", "world");
+}
+#+end_src
+- gcc example.c
+- ./a.out
+*** Python
+Implemented in C in standard Python; in Python in pypy
+#+begin_src python
+print "hello, %s\n" % "world"
+print "1 + 1 = %d\n" % 2
+print "hello, %d\n" % "world"
+#+end_src
+
+- python example.py
+  
+*** Haskell
+done with weird typeclass hackery
+#+begin_src haskell
+import Text.Printf
+main = do
+  printf "hello, %s\n" world
+  printf "1 + 1 = %d\n" 2
+  printf "hello, %d\n" "world"
+#+end_src
+
+- cd haskell
+- docker build -t nabilhassein/haskell-printf .
+- docker run -it nabilhassein/haskell-printf
+- why does this compile??? :(
+- why can't I `:t printf "hello, %s"`?
+- there must be a nicer way. types are always the answer.
+
+* Static Types, simple and dependent
+** Natural Numbers
+#+begin_src idris
+data Nat = Z | S Nat
+plus : Nat -> Nat -> Nat
+plus Z n = n
+plus (S k) n = S (plus k n)
+#+end_src
+** First Class Types
+#+begin_src idris
+foo : Bool -> Type
+foo True = Int
+foo False = String
+
+bar : (b: Bool) -> foo b
+bar True = 1
+bar False = "hi"
+#+end_src
+** Vectors
+#+begin_src idris
+data Vect : Nat -> Type -> Type where
+  Nil : Vect 0 a
+  (::) : a -> Vect n a -> Vect (S n) a
+
+append : Vect n a -> Vect m a -> Vect (n + m) a
+append []        ys = ys
+append (x :: xs) ys = x :: append xs ys
+#+end_src
+
+** Typechecking
+#+begin_src idris
+v : Vect 3 String
+v = ["hello", "world"]
+
+-- fails with this type error:
+-- main.idr:7:6:When checking right hand side of v with expected type
+--         Vect 3 String
+
+-- When checking an application of constructor Main.:::
+--         Type mismatch between
+--                 Vect 0 a (Type of [])
+--         and
+--                 Vect 1 String (Expected type)
+        
+--         Specifically:
+--                 Type mismatch between
+--                         0
+--                 and
+--                         1
+#+end_src
+
+** But wait, there's more!
+bounded numbers with safe indexing
+#+begin_src idris
+index : Fin n -> Vect n a -> a
+index FZ     (x :: xs) = x
+index (FS k) (x :: xs) = index k xs
+#+end_src
+
+matrices with static typechecking of legal multiplication
+#+begin_src idris
+mul_matrix : Matrix n m -> Matrix m p -> Matrix n p
+#+end_src
+
+* printf revisited
+** printf.idr
+- show Dockerfile
+- show printf source
+- docker build -t nabilhassein/idris-printf .
+- docker run -it nabilhassein/idris-printf
+- :t printf "hello, %s"
+- :t printf "1 + 1 = %d"
+** Does -XTypeInType make this better in Haskell now?
+** Further reading
+https://nabilhassein.github.io/blog/notes-on-idris/
