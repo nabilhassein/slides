@@ -1,0 +1,1425 @@
+{
+  "assets" : {
+    "CB7E96F2F062F73154D6601C61D07F7A" : {
+      "type" : "texture",
+      "index" : 1,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/3D0DD3D2-9ABD-4320-95B0-3AD11B5E359C.pdf"
+      },
+      "width" : 890,
+      "height" : 1075
+    },
+    "5BA6DF7ACEF516F7DAB78587CF30CE20" : {
+      "type" : "texture",
+      "index" : 0,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/3D0DD3D2-9ABD-4320-95B0-3AD11B5E359C.pdf"
+      },
+      "width" : 1920,
+      "height" : 1080
+    },
+    "E6BDC9F3847DD47911C299F5EE31A552" : {
+      "type" : "texture",
+      "index" : 3,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/3D0DD3D2-9ABD-4320-95B0-3AD11B5E359C.pdf"
+      },
+      "width" : 1920,
+      "height" : 1080
+    },
+    "EE536E514DBDE418EFAF93059A8E9147" : {
+      "type" : "texture",
+      "index" : 2,
+      "assetRequest" : {
+        "type" : "slide",
+        "state" : "contents",
+        "slide" : "none"
+      },
+      "url" : {
+        "native" : "assets\/3D0DD3D2-9ABD-4320-95B0-3AD11B5E359C.pdf"
+      },
+      "width" : 945,
+      "height" : 1061
+    }
+  },
+  "events" : [
+    {
+      "effects" : [
+        {
+          "beginTime" : 0,
+          "baseLayer" : {
+            "animations" : [
+
+            ],
+            "initialState" : {
+              "affineTransform" : [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "masksToBounds" : false,
+              "rotation" : 0,
+              "scale" : 1,
+              "position" : {
+                "pointX" : 960,
+                "pointY" : 540
+              },
+              "width" : 1920,
+              "sublayerTransform" : [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+              ],
+              "contentsRect" : {
+                "y" : 0,
+                "x" : 0,
+                "width" : 1,
+                "height" : 1
+              },
+              "opacity" : 1,
+              "edgeAntialiasingMask" : 251658240,
+              "height" : 1080,
+              "hidden" : false,
+              "anchorPoint" : {
+                "pointX" : 0.5,
+                "pointY" : 0.5
+              }
+            },
+            "objectID" : "0",
+            "layers" : [
+              {
+                "animations" : [
+
+                ],
+                "initialState" : {
+                  "affineTransform" : [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                  ],
+                  "masksToBounds" : false,
+                  "rotation" : 0,
+                  "scale" : 1,
+                  "position" : {
+                    "pointX" : 960,
+                    "pointY" : 540
+                  },
+                  "width" : 1920,
+                  "sublayerTransform" : [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    -0.00035007912466775983,
+                    0,
+                    0,
+                    0,
+                    1
+                  ],
+                  "contentsRect" : {
+                    "y" : 0,
+                    "x" : 0,
+                    "width" : 1,
+                    "height" : 1
+                  },
+                  "opacity" : 1,
+                  "edgeAntialiasingMask" : 251658240,
+                  "height" : 1080,
+                  "hidden" : false,
+                  "anchorPoint" : {
+                    "pointX" : 0.5,
+                    "pointY" : 0.5
+                  }
+                },
+                "layers" : [
+                  {
+                    "animations" : [
+
+                    ],
+                    "layers" : [
+
+                    ],
+                    "texturedRectangle" : {
+                      "isBackgroundTexture" : false,
+                      "singleTextureOpacity" : 1,
+                      "textureType" : 0,
+                      "textBaseline" : 0,
+                      "textXHeight" : 0,
+                      "isVerticalText" : false
+                    },
+                    "initialState" : {
+                      "affineTransform" : [
+                        1,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0
+                      ],
+                      "masksToBounds" : false,
+                      "rotation" : 0,
+                      "scale" : 1,
+                      "position" : {
+                        "pointX" : 960,
+                        "pointY" : 540
+                      },
+                      "width" : 1920,
+                      "sublayerTransform" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                      ],
+                      "contentsRect" : {
+                        "y" : 0,
+                        "x" : 0,
+                        "width" : 1,
+                        "height" : 1
+                      },
+                      "opacity" : 1,
+                      "edgeAntialiasingMask" : 0,
+                      "height" : 1080,
+                      "hidden" : false,
+                      "anchorPoint" : {
+                        "pointX" : 0.5,
+                        "pointY" : 0.5
+                      }
+                    },
+                    "texture" : "5BA6DF7ACEF516F7DAB78587CF30CE20"
+                  },
+                  {
+                    "animations" : [
+                      {
+                        "timeOffset" : 0,
+                        "from" : {
+                          "scalar" : false
+                        },
+                        "beginTime" : 0,
+                        "repeatCount" : 0,
+                        "fillMode" : "both",
+                        "property" : "hidden",
+                        "autoreverses" : false,
+                        "duration" : 0.01,
+                        "to" : {
+                          "scalar" : true
+                        }
+                      }
+                    ],
+                    "layers" : [
+
+                    ],
+                    "texturedRectangle" : {
+                      "isBackgroundTexture" : false,
+                      "singleTextureOpacity" : 1,
+                      "textureType" : 0,
+                      "textBaseline" : 0,
+                      "textXHeight" : 0,
+                      "isVerticalText" : false
+                    },
+                    "initialState" : {
+                      "affineTransform" : [
+                        1,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0
+                      ],
+                      "masksToBounds" : false,
+                      "rotation" : 0,
+                      "scale" : 1,
+                      "position" : {
+                        "pointX" : 960,
+                        "pointY" : 540
+                      },
+                      "width" : 1920,
+                      "sublayerTransform" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                      ],
+                      "contentsRect" : {
+                        "y" : 0,
+                        "x" : 0,
+                        "width" : 1,
+                        "height" : 1
+                      },
+                      "opacity" : 1,
+                      "edgeAntialiasingMask" : 0,
+                      "height" : 1080,
+                      "hidden" : false,
+                      "anchorPoint" : {
+                        "pointX" : 0.5,
+                        "pointY" : 0.5
+                      }
+                    },
+                    "texture" : "E6BDC9F3847DD47911C299F5EE31A552"
+                  }
+                ]
+              }
+            ]
+          },
+          "effects" : [
+
+          ],
+          "duration" : 0.01,
+          "type" : "transition",
+          "name" : "none",
+          "objectID" : "0"
+        }
+      ],
+      "automaticPlay" : false,
+      "hyperlinks" : [
+        {
+          "url" : "https:\/\/www.eurekalert.org\/pub_releases\/2018-05\/cp-bet051018.php",
+          "targetRectangle" : {
+            "y" : 19.2109375,
+            "x" : 971.06249940395332,
+            "width" : 919.83000000000015,
+            "height" : 71.160003662109375
+          }
+        },
+        {
+          "url" : "https:\/\/www.theguardian.com\/environment\/2017\/dec\/11\/tsunami-of-data-could-consume-fifth-global-electricity-by-2025",
+          "targetRectangle" : {
+            "y" : 91.2109375,
+            "x" : 971.06249940395332,
+            "width" : 881.31000000000017,
+            "height" : 100.69125366210938
+          }
+        },
+        {
+          "url" : "https:\/\/www.theguardian.com\/global-development-professionals-network\/2016\/apr\/08\/global-inequality-may-be-much-worse-than-we-think",
+          "targetRectangle" : {
+            "y" : 192.7421875,
+            "x" : 971.06249940395332,
+            "width" : 888.47999999999979,
+            "height" : 136.69125366210938
+          }
+        },
+        {
+          "url" : "https:\/\/www.scientificamerican.com\/article\/the-first-comprehensive-look-at-global-food-waste-is-as-bad-as-you-d-expect\/",
+          "targetRectangle" : {
+            "y" : 330.2734375,
+            "x" : 971.06249940395332,
+            "width" : 913.34999999999991,
+            "height" : 100.69125366210938
+          }
+        },
+        {
+          "url" : "http:\/\/www.who.int\/en\/news-room\/detail\/15-09-2017-world-hunger-again-on-the-rise-driven-by-conflict-and-climate-change-new-un-report-says",
+          "targetRectangle" : {
+            "y" : 431.8046875,
+            "x" : 971.06249940395332,
+            "width" : 909.47999999999979,
+            "height" : 136.69125366210938
+          }
+        },
+        {
+          "url" : "https:\/\/www.mintpressnews.com\/empty-homes-outnumber-the-homeless-6-to-1-so-why-not-give-them-homes\/207194\/",
+          "targetRectangle" : {
+            "y" : 569.3359375,
+            "x" : 971.06249940395332,
+            "width" : 859.1099999999999,
+            "height" : 100.69125366210938
+          }
+        },
+        {
+          "url" : "http:\/\/exxonknew.org\/",
+          "targetRectangle" : {
+            "y" : 670.8671875,
+            "x" : 971.06249940395332,
+            "width" : 294.14999999999986,
+            "height" : 64.691253662109375
+          }
+        },
+        {
+          "url" : "https:\/\/www.feministes-radicales.org\/wp-content\/uploads\/2010\/11\/Angela-Davis-Are_Prisons_Obsolete.pdf",
+          "targetRectangle" : {
+            "y" : 736.3984375,
+            "x" : 971.06249940395332,
+            "width" : 299.49000000000001,
+            "height" : 64.691253662109375
+          }
+        },
+        {
+          "url" : "http:\/\/worrydream.com\/ClimateChange\/",
+          "targetRectangle" : {
+            "y" : 801.9296875,
+            "x" : 971.06249940395332,
+            "width" : 710.16000000000008,
+            "height" : 64.691253662109375
+          }
+        },
+        {
+          "url" : "https:\/\/grist.org\/article\/antarctica-doomsday-glaciers-could-flood-coastal-cities\/",
+          "targetRectangle" : {
+            "y" : 867.4609375,
+            "x" : 971.06249940395332,
+            "width" : 205.55999999999995,
+            "height" : 64.691253662109375
+          }
+        },
+        {
+          "url" : "https:\/\/www.youtube.com\/watch?v=dU0g5fAA2QY",
+          "targetRectangle" : {
+            "y" : 932.9921875,
+            "x" : 971.06249940395332,
+            "width" : 680.04000000000019,
+            "height" : 64.691253662109375
+          }
+        },
+        {
+          "url" : "https:\/\/secure.squarespace.com\/commerce\/donate?donatePageId=547e1f1fe4b0142cf2a50b5e",
+          "targetRectangle" : {
+            "y" : 998.5234375,
+            "x" : 971.06249940395332,
+            "width" : 426.75,
+            "height" : 64.691253662109375
+          }
+        },
+        {
+          "url" : "http:\/\/td-architects.eu\/projects\/show\/walled-world\/",
+          "targetRectangle" : {
+            "y" : 13.2109375,
+            "x" : 66.279686256249533,
+            "width" : 248.48520000000002,
+            "height" : 37.109603881835938
+          }
+        },
+        {
+          "url" : "https:\/\/www.youtube.com\/watch?v=yur_tjuJCdU",
+          "targetRectangle" : {
+            "y" : 51.2109375,
+            "x" : 66.279686256249533,
+            "width" : 745.58280000000013,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "url" : "http:\/\/nas.sr\/%D9%82%D9%84%D8%A8\/",
+          "targetRectangle" : {
+            "y" : 120.51406081020832,
+            "x" : 66.279686256249533,
+            "width" : 39.24683544303798,
+            "height" : 72.405748765599014
+          }
+        },
+        {
+          "url" : "https:\/\/ainowinstitute.org\/AI_Now_2017_Report.pdf",
+          "targetRectangle" : {
+            "y" : 194.81718412041664,
+            "x" : 66.279686256249533,
+            "width" : 287.98080000000004,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "url" : "https:\/\/missingmigrants.iom.int\/region\/mediterranean",
+          "targetRectangle" : {
+            "y" : 264.12030743062496,
+            "x" : 66.279686256249533,
+            "width" : 570.77819999999974,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "url" : "http:\/\/www.sourcemap.com\/blog\/fairphone-and-sourcemap-bring-transparency-to-smartphone-supply-chains",
+          "targetRectangle" : {
+            "y" : 333.42343074083328,
+            "x" : 66.279686256249533,
+            "width" : 402.93779999999992,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "url" : "https:\/\/www.weforum.org\/agenda\/2016\/11\/this-map-shows-how-undersea-cables-move-internet-traffic-around-the-world\/",
+          "targetRectangle" : {
+            "y" : 402.7265540510416,
+            "x" : 66.279686256249533,
+            "width" : 295.10399999999998,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "url" : "https:\/\/services.ul.com\/wp-content\/uploads\/sites\/4\/2014\/05\/ULE_CellPhone_White_Paper_V2.pdf",
+          "targetRectangle" : {
+            "y" : 472.02967736124992,
+            "x" : 66.279686256249533,
+            "width" : 631.35719999999981,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "url" : "https:\/\/www.theguardian.com\/global-development\/2016\/jan\/19\/children-as-young-as-seven-mining-cobalt-for-use-in-smartphones-says-amnesty",
+          "targetRectangle" : {
+            "y" : 541.33280067145824,
+            "x" : 66.279686256249533,
+            "width" : 860.47620000000018,
+            "height" : 144.41272719204426
+          }
+        },
+        {
+          "url" : "http:\/\/pulitzercenter.org\/reporting\/chinas-bloody-factories-problem-bigger-foxconn",
+          "targetRectangle" : {
+            "y" : 686.63592398166656,
+            "x" : 66.279686256249533,
+            "width" : 829.47120000000018,
+            "height" : 106.41272719204426
+          }
+        },
+        {
+          "url" : "https:\/\/www.tandfonline.com\/doi\/abs\/10.1080\/01419870.1986.9993521?journalCode=rers20&",
+          "targetRectangle" : {
+            "y" : 793.93904729187489,
+            "x" : 66.279686256249533,
+            "width" : 689.61479999999995,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "url" : "http:\/\/ipen.org\/documents\/electronics-workers-vietnamese-women-report",
+          "targetRectangle" : {
+            "y" : 863.24217060208321,
+            "x" : 66.279686256249533,
+            "width" : 849.25080000000003,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "url" : "https:\/\/digiconomist.net\/bitcoin-energy-consumption",
+          "targetRectangle" : {
+            "y" : 932.54529391229153,
+            "x" : 66.279686256249533,
+            "width" : 751.30679999999973,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "url" : "https:\/\/powercompare.co.uk\/bitcoin\/",
+          "targetRectangle" : {
+            "y" : 1001.8484172224998,
+            "x" : 66.279686256249533,
+            "width" : 520.66139999999984,
+            "height" : 68.412727192044258
+          }
+        }
+      ],
+      "accessibility" : [
+        {
+          "text" : "Bitcoin estimated to use half a percent of the world's electric energy by end of 2018 ",
+          "targetRectangle" : {
+            "y" : 19.2109375,
+            "x" : 971.06249940395332,
+            "width" : 919.83000000000015,
+            "height" : 71.160003662109375
+          }
+        },
+        {
+          "text" : "https:\/\/www.theguardian.com\/environment\/2017\/dec\/11\/tsunami-of-data-could-consume-fifth-global-electricity-by-2025",
+          "targetRectangle" : {
+            "y" : 91.2109375,
+            "x" : 971.06249940395332,
+            "width" : 881.31000000000017,
+            "height" : 100.69125366210938
+          }
+        },
+        {
+          "text" : "https:\/\/www.theguardian.com\/global-development-professionals-network\/2016\/apr\/08\/global-inequality-may-be-much-worse-than-we-think",
+          "targetRectangle" : {
+            "y" : 192.7421875,
+            "x" : 971.06249940395332,
+            "width" : 888.47999999999979,
+            "height" : 136.69125366210938
+          }
+        },
+        {
+          "text" : "https:\/\/www.scientificamerican.com\/article\/the-first-comprehensive-look-at-global-food-waste-is-as-bad-as-you-d-expect\/",
+          "targetRectangle" : {
+            "y" : 330.2734375,
+            "x" : 971.06249940395332,
+            "width" : 913.34999999999991,
+            "height" : 100.69125366210938
+          }
+        },
+        {
+          "text" : "http:\/\/www.who.int\/en\/news-room\/detail\/15-09-2017-world-hunger-again-on-the-rise-driven-by-conflict-and-climate-change-new-un-report-says",
+          "targetRectangle" : {
+            "y" : 431.8046875,
+            "x" : 971.06249940395332,
+            "width" : 909.47999999999979,
+            "height" : 136.69125366210938
+          }
+        },
+        {
+          "text" : "https:\/\/www.mintpressnews.com\/empty-homes-outnumber-the-homeless-6-to-1-so-why-not-give-them-homes\/207194\/",
+          "targetRectangle" : {
+            "y" : 569.3359375,
+            "x" : 971.06249940395332,
+            "width" : 859.1099999999999,
+            "height" : 100.69125366210938
+          }
+        },
+        {
+          "text" : "http:\/\/exxonknew.org\/",
+          "targetRectangle" : {
+            "y" : 670.8671875,
+            "x" : 971.06249940395332,
+            "width" : 294.14999999999986,
+            "height" : 64.691253662109375
+          }
+        },
+        {
+          "text" : "Are Prisons Obsolete?",
+          "targetRectangle" : {
+            "y" : 736.3984375,
+            "x" : 971.06249940395332,
+            "width" : 299.49000000000001,
+            "height" : 64.691253662109375
+          }
+        },
+        {
+          "text" : "What Can a Technologist Do About Climate Change?",
+          "targetRectangle" : {
+            "y" : 801.9296875,
+            "x" : 971.06249940395332,
+            "width" : 710.16000000000008,
+            "height" : 64.691253662109375
+          }
+        },
+        {
+          "text" : "Ice Apocalypse",
+          "targetRectangle" : {
+            "y" : 867.4609375,
+            "x" : 971.06249940395332,
+            "width" : 205.55999999999995,
+            "height" : 64.691253662109375
+          }
+        },
+        {
+          "text" : "James Baldwin, \\\"The Artist's Struggle for Integrity\\\"",
+          "targetRectangle" : {
+            "y" : 932.9921875,
+            "x" : 971.06249940395332,
+            "width" : 680.04000000000019,
+            "height" : 64.691253662109375
+          }
+        },
+        {
+          "text" : "Donate to Cooperation Jackson",
+          "targetRectangle" : {
+            "y" : 998.5234375,
+            "x" : 971.06249940395332,
+            "width" : 426.75,
+            "height" : 64.691253662109375
+          }
+        },
+        {
+          "text" : "The Walled World",
+          "targetRectangle" : {
+            "y" : 13.2109375,
+            "x" : 66.279686256249533,
+            "width" : 248.48520000000002,
+            "height" : 37.109603881835938
+          }
+        },
+        {
+          "text" : "Black Lives Matter UK: climate crisis is a racist crisis",
+          "targetRectangle" : {
+            "y" : 51.2109375,
+            "x" : 66.279686256249533,
+            "width" : 745.58280000000013,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "text" : "قلب",
+          "targetRectangle" : {
+            "y" : 120.51406081020832,
+            "x" : 66.279686256249533,
+            "width" : 39.24683544303798,
+            "height" : 72.405748765599014
+          }
+        },
+        {
+          "text" : "AI Now 2017 Report",
+          "targetRectangle" : {
+            "y" : 194.81718412041664,
+            "x" : 66.279686256249533,
+            "width" : 287.98080000000004,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "text" : "Deaths of migrants in the Mediterranean",
+          "targetRectangle" : {
+            "y" : 264.12030743062496,
+            "x" : 66.279686256249533,
+            "width" : 570.77819999999974,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "text" : "Fairphone supply chain map",
+          "targetRectangle" : {
+            "y" : 333.42343074083328,
+            "x" : 66.279686256249533,
+            "width" : 402.93779999999992,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "text" : "Undersea cable map",
+          "targetRectangle" : {
+            "y" : 402.7265540510416,
+            "x" : 66.279686256249533,
+            "width" : 295.10399999999998,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "text" : "The Life Cycle of Materials in Mobile Phones",
+          "targetRectangle" : {
+            "y" : 472.02967736124992,
+            "x" : 66.279686256249533,
+            "width" : 631.35719999999981,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "text" : "https:\/\/www.theguardian.com\/global-development\/2016\/jan\/19\/children-as-young-as-seven-mining-cobalt-for-use-in-smartphones-says-amnesty",
+          "targetRectangle" : {
+            "y" : 541.33280067145824,
+            "x" : 66.279686256249533,
+            "width" : 860.47620000000018,
+            "height" : 144.41272719204426
+          }
+        },
+        {
+          "text" : "http:\/\/pulitzercenter.org\/reporting\/chinas-bloody-factories-problem-bigger-foxconn",
+          "targetRectangle" : {
+            "y" : 686.63592398166656,
+            "x" : 66.279686256249533,
+            "width" : 829.47120000000018,
+            "height" : 106.41272719204426
+          }
+        },
+        {
+          "text" : "Women in world market factories: East and West",
+          "targetRectangle" : {
+            "y" : 793.93904729187489,
+            "x" : 66.279686256249533,
+            "width" : 689.61479999999995,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "text" : "Stories of Women Workers in Vietnam's Electronics Industry",
+          "targetRectangle" : {
+            "y" : 863.24217060208321,
+            "x" : 66.279686256249533,
+            "width" : 849.25080000000003,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "text" : "https:\/\/digiconomist.net\/bitcoin-energy-consumption",
+          "targetRectangle" : {
+            "y" : 932.54529391229153,
+            "x" : 66.279686256249533,
+            "width" : 751.30679999999973,
+            "height" : 68.412727192044258
+          }
+        },
+        {
+          "text" : "https:\/\/powercompare.co.uk\/bitcoin\/",
+          "targetRectangle" : {
+            "y" : 1001.8484172224998,
+            "x" : 66.279686256249533,
+            "width" : 520.66139999999984,
+            "height" : 68.412727192044258
+          }
+        }
+      ],
+      "baseLayer" : {
+        "animations" : [
+
+        ],
+        "initialState" : {
+          "affineTransform" : [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          "masksToBounds" : false,
+          "rotation" : 0,
+          "scale" : 1,
+          "position" : {
+            "pointX" : 960,
+            "pointY" : 540
+          },
+          "width" : 1920,
+          "sublayerTransform" : [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "contentsRect" : {
+            "y" : 0,
+            "x" : 0,
+            "width" : 1,
+            "height" : 1
+          },
+          "opacity" : 1,
+          "edgeAntialiasingMask" : 251658240,
+          "height" : 1080,
+          "hidden" : false,
+          "anchorPoint" : {
+            "pointX" : 0.5,
+            "pointY" : 0.5
+          }
+        },
+        "objectID" : "0",
+        "layers" : [
+          {
+            "animations" : [
+
+            ],
+            "initialState" : {
+              "affineTransform" : [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "masksToBounds" : false,
+              "rotation" : 0,
+              "scale" : 1,
+              "position" : {
+                "pointX" : 960,
+                "pointY" : 540
+              },
+              "width" : 1920,
+              "sublayerTransform" : [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+              ],
+              "contentsRect" : {
+                "y" : 0,
+                "x" : 0,
+                "width" : 1,
+                "height" : 1
+              },
+              "opacity" : 1,
+              "edgeAntialiasingMask" : 251658240,
+              "height" : 1080,
+              "hidden" : false,
+              "anchorPoint" : {
+                "pointX" : 0.5,
+                "pointY" : 0.5
+              }
+            },
+            "layers" : [
+              {
+                "animations" : [
+
+                ],
+                "initialState" : {
+                  "affineTransform" : [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                  ],
+                  "masksToBounds" : false,
+                  "rotation" : 0,
+                  "scale" : 1,
+                  "position" : {
+                    "pointX" : 960,
+                    "pointY" : 540
+                  },
+                  "width" : 1920,
+                  "sublayerTransform" : [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                  ],
+                  "contentsRect" : {
+                    "y" : 0,
+                    "x" : 0,
+                    "width" : 1,
+                    "height" : 1
+                  },
+                  "opacity" : 1,
+                  "edgeAntialiasingMask" : 251658240,
+                  "height" : 1080,
+                  "hidden" : false,
+                  "anchorPoint" : {
+                    "pointX" : 0.5,
+                    "pointY" : 0.5
+                  }
+                },
+                "layers" : [
+                  {
+                    "animations" : [
+
+                    ],
+                    "layers" : [
+
+                    ],
+                    "texturedRectangle" : {
+                      "isBackgroundTexture" : true,
+                      "singleTextureOpacity" : 1,
+                      "textureType" : 1,
+                      "textBaseline" : 0,
+                      "textXHeight" : 0,
+                      "isVerticalText" : false
+                    },
+                    "initialState" : {
+                      "affineTransform" : [
+                        1,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0
+                      ],
+                      "masksToBounds" : false,
+                      "rotation" : 0,
+                      "scale" : 1,
+                      "position" : {
+                        "pointX" : 960,
+                        "pointY" : 540
+                      },
+                      "width" : 1920,
+                      "sublayerTransform" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                      ],
+                      "contentsRect" : {
+                        "y" : 0,
+                        "x" : 0,
+                        "width" : 1,
+                        "height" : 1
+                      },
+                      "opacity" : 1,
+                      "edgeAntialiasingMask" : 0,
+                      "height" : 1080,
+                      "hidden" : false,
+                      "anchorPoint" : {
+                        "pointX" : 0.5,
+                        "pointY" : 0.5
+                      }
+                    },
+                    "texture" : "5BA6DF7ACEF516F7DAB78587CF30CE20"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations" : [
+
+            ],
+            "initialState" : {
+              "affineTransform" : [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "masksToBounds" : false,
+              "rotation" : 0,
+              "scale" : 1,
+              "position" : {
+                "pointX" : 960,
+                "pointY" : 540
+              },
+              "width" : 1920,
+              "sublayerTransform" : [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+              ],
+              "contentsRect" : {
+                "y" : 0,
+                "x" : 0,
+                "width" : 1,
+                "height" : 1
+              },
+              "opacity" : 1,
+              "edgeAntialiasingMask" : 251658240,
+              "height" : 1080,
+              "hidden" : false,
+              "anchorPoint" : {
+                "pointX" : 0.5,
+                "pointY" : 0.5
+              }
+            },
+            "layers" : [
+              {
+                "animations" : [
+
+                ],
+                "initialState" : {
+                  "affineTransform" : [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                  ],
+                  "masksToBounds" : false,
+                  "rotation" : 0,
+                  "scale" : 1,
+                  "position" : {
+                    "pointX" : 480.14843749999977,
+                    "pointY" : 539.0859375
+                  },
+                  "width" : 890,
+                  "sublayerTransform" : [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                  ],
+                  "contentsRect" : {
+                    "y" : 0,
+                    "x" : 0,
+                    "width" : 1,
+                    "height" : 1
+                  },
+                  "opacity" : 1,
+                  "edgeAntialiasingMask" : 251658240,
+                  "height" : 1075,
+                  "hidden" : false,
+                  "anchorPoint" : {
+                    "pointX" : 0.5,
+                    "pointY" : 0.5
+                  }
+                },
+                "layers" : [
+                  {
+                    "animations" : [
+
+                    ],
+                    "layers" : [
+
+                    ],
+                    "texturedRectangle" : {
+                      "singleTextureOpacity" : 1,
+                      "textXHeight" : 0.015293581395348838,
+                      "textBaseline" : 0.98557007063544066,
+                      "isBackgroundTexture" : true,
+                      "isVerticalText" : false,
+                      "textColor" : [
+                        0.9999966025352478,
+                        0.99999994039535522,
+                        0.99999994039535522,
+                        1
+                      ],
+                      "textureType" : 6
+                    },
+                    "initialState" : {
+                      "affineTransform" : [
+                        1,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0
+                      ],
+                      "masksToBounds" : false,
+                      "rotation" : 0,
+                      "scale" : 1,
+                      "position" : {
+                        "pointX" : 449.85156250000023,
+                        "pointY" : 539.9140625
+                      },
+                      "width" : 890,
+                      "sublayerTransform" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                      ],
+                      "contentsRect" : {
+                        "y" : 0,
+                        "x" : 0,
+                        "width" : 1,
+                        "height" : 1
+                      },
+                      "opacity" : 1,
+                      "edgeAntialiasingMask" : 0,
+                      "height" : 1075,
+                      "hidden" : false,
+                      "anchorPoint" : {
+                        "pointX" : 0.5,
+                        "pointY" : 0.5
+                      }
+                    },
+                    "texture" : "CB7E96F2F062F73154D6601C61D07F7A"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "animations" : [
+
+            ],
+            "initialState" : {
+              "affineTransform" : [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "masksToBounds" : false,
+              "rotation" : 0,
+              "scale" : 1,
+              "position" : {
+                "pointX" : 960,
+                "pointY" : 540
+              },
+              "width" : 1920,
+              "sublayerTransform" : [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+              ],
+              "contentsRect" : {
+                "y" : 0,
+                "x" : 0,
+                "width" : 1,
+                "height" : 1
+              },
+              "opacity" : 1,
+              "edgeAntialiasingMask" : 251658240,
+              "height" : 1080,
+              "hidden" : false,
+              "anchorPoint" : {
+                "pointX" : 0.5,
+                "pointY" : 0.5
+              }
+            },
+            "layers" : [
+              {
+                "animations" : [
+
+                ],
+                "initialState" : {
+                  "affineTransform" : [
+                    1,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0
+                  ],
+                  "masksToBounds" : false,
+                  "rotation" : 0,
+                  "scale" : 1,
+                  "position" : {
+                    "pointX" : 1413.8749999999998,
+                    "pointY" : 532.0859375
+                  },
+                  "width" : 945,
+                  "sublayerTransform" : [
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1
+                  ],
+                  "contentsRect" : {
+                    "y" : 0,
+                    "x" : 0,
+                    "width" : 1,
+                    "height" : 1
+                  },
+                  "opacity" : 1,
+                  "edgeAntialiasingMask" : 251658240,
+                  "height" : 1061,
+                  "hidden" : false,
+                  "anchorPoint" : {
+                    "pointX" : 0.5,
+                    "pointY" : 0.5
+                  }
+                },
+                "layers" : [
+                  {
+                    "animations" : [
+
+                    ],
+                    "layers" : [
+
+                    ],
+                    "texturedRectangle" : {
+                      "singleTextureOpacity" : 1,
+                      "textXHeight" : 0.014618284637134778,
+                      "textBaseline" : 0.98569723663186259,
+                      "isBackgroundTexture" : true,
+                      "isVerticalText" : false,
+                      "textColor" : [
+                        0.9999966025352478,
+                        0.99999994039535522,
+                        0.99999994039535522,
+                        1
+                      ],
+                      "textureType" : 6
+                    },
+                    "initialState" : {
+                      "affineTransform" : [
+                        1,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0
+                      ],
+                      "masksToBounds" : false,
+                      "rotation" : 0,
+                      "scale" : 1,
+                      "position" : {
+                        "pointX" : 477.12500000000023,
+                        "pointY" : 539.9140625
+                      },
+                      "width" : 945,
+                      "sublayerTransform" : [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                      ],
+                      "contentsRect" : {
+                        "y" : 0,
+                        "x" : 0,
+                        "width" : 1,
+                        "height" : 1
+                      },
+                      "opacity" : 1,
+                      "edgeAntialiasingMask" : 0,
+                      "height" : 1061,
+                      "hidden" : false,
+                      "anchorPoint" : {
+                        "pointX" : 0.5,
+                        "pointY" : 0.5
+                      }
+                    },
+                    "texture" : "EE536E514DBDE418EFAF93059A8E9147"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
