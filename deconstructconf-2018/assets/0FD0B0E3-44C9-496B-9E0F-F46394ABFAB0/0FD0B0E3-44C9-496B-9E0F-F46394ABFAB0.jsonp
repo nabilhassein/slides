@@ -4,7 +4,7 @@ local_slide( {
     "assets" : {
       "E858D2A3DA67D50EFB42C34733935560" : {
         "type" : "texture",
-        "index" : 2,
+        "index" : 1,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -15,6 +15,20 @@ local_slide( {
         },
         "width" : 1446,
         "height" : 1084
+      },
+      "5BA6DF7ACEF516F7DAB78587CF30CE20" : {
+        "type" : "texture",
+        "index" : 0,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/0FD0B0E3-44C9-496B-9E0F-F46394ABFAB0.pdf"
+        },
+        "width" : 1920,
+        "height" : 1080
       },
       "DE73DEAA940D6D0368BEBB6A65DA7D72" : {
         "url" : {
@@ -29,11 +43,11 @@ local_slide( {
           "state" : "contents",
           "slide" : "none"
         },
-        "index" : 3
+        "index" : 2
       },
-      "FFC5F8279AE15C7A4E16F5B0E8246BA5" : {
+      "FF3F009426D101A0CB884AC2C75E2E8C" : {
         "type" : "texture",
-        "index" : 5,
+        "index" : 3,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -45,9 +59,9 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "5BA6DF7ACEF516F7DAB78587CF30CE20" : {
+      "FFC5F8279AE15C7A4E16F5B0E8246BA5" : {
         "type" : "texture",
-        "index" : 0,
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -73,34 +87,6 @@ local_slide( {
         },
         "width" : 480,
         "height" : 360
-      },
-      "A3E6A1A805312C0939D874A2E5BB41C9" : {
-        "type" : "texture",
-        "index" : 1,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/0FD0B0E3-44C9-496B-9E0F-F46394ABFAB0.pdf"
-        },
-        "width" : 1446,
-        "height" : 1084
-      },
-      "29F0B6E5816BB255519427DF6C53E0A8" : {
-        "type" : "texture",
-        "index" : 4,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/0FD0B0E3-44C9-496B-9E0F-F46394ABFAB0.pdf"
-        },
-        "width" : 1920,
-        "height" : 1080
       }
     },
     "events" : [
@@ -959,7 +945,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "A3E6A1A805312C0939D874A2E5BB41C9"
+                      "texture" : "E858D2A3DA67D50EFB42C34733935560"
                     }
                   ]
                 }
@@ -1148,7 +1134,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "29F0B6E5816BB255519427DF6C53E0A8"
+                      "texture" : "FF3F009426D101A0CB884AC2C75E2E8C"
                     },
                     {
                       "animations" : [

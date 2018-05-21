@@ -1,7 +1,7 @@
 {
   "autoplayTransitionDelay" : 5,
   "author" : "",
-  "timestamp" : "2018-49-21 7:5:2",
+  "timestamp" : "2018-12-21 8:5:3",
   "loopSlideshow" : 0,
   "filename" : "deconstruct-talk",
   "autoplayBuildDelay" : 2,
@@ -44,6 +44,7 @@
     "B4E91A91-92B7-436A-9D7E-36F1721AECBF",
     "0FD0B0E3-44C9-496B-9E0F-F46394ABFAB0",
     "297F65F0-8FF6-48A5-8B0E-20BB0FF1377C",
+    "83F5D320-B7C5-4F54-B8FC-582C59F6C3D6",
     "3D0DD3D2-9ABD-4320-95B0-3AD11B5E359C"
   ],
   "soundtrack" : {
@@ -52,7 +53,7 @@
   },
   "slideWidth" : 1920,
   "slideHeight" : 1080,
-  "slideCount" : 35,
+  "slideCount" : 36,
   "majorVersion" : 1,
   "minorVersion" : 2,
   "fonts" : [

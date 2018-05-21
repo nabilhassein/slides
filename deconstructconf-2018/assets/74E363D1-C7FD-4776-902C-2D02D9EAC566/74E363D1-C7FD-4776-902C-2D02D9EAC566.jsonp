@@ -2537,21 +2537,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Organizing among ourselves against imperialism",
-            "targetRectangle" : {
-              "y" : 188.16406249999994,
-              "x" : 88.898436307906991,
-              "width" : 1295.1599999999999,
-              "height" : 70.32000732421875
-            }
-          },
-          {
             "text" : "What is to be done?",
             "targetRectangle" : {
               "y" : 38.765624999999986,
               "x" : 441.32799999999986,
               "width" : 1037.3440000000001,
               "height" : 132.751220703125
+            }
+          },
+          {
+            "text" : "Organizing among ourselves against imperialism",
+            "targetRectangle" : {
+              "y" : 188.16406249999994,
+              "x" : 88.898436307906991,
+              "width" : 1295.1599999999999,
+              "height" : 70.32000732421875
             }
           }
         ],
@@ -4266,6 +4266,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "What is to be done?",
+            "targetRectangle" : {
+              "y" : 38.765624999999986,
+              "x" : 441.32799999999986,
+              "width" : 1037.3440000000001,
+              "height" : 132.751220703125
+            }
+          },
+          {
             "text" : "Organizing among ourselves against imperialism",
             "targetRectangle" : {
               "y" : 188.16406249999994,
@@ -4281,15 +4290,6 @@ local_slide( {
               "x" : 88.898436307906991,
               "width" : 1740.3599999999997,
               "height" : 129.38250732421875
-            }
-          },
-          {
-            "text" : "What is to be done?",
-            "targetRectangle" : {
-              "y" : 38.765624999999986,
-              "x" : 441.32799999999986,
-              "width" : 1037.3440000000001,
-              "height" : 132.751220703125
             }
           }
         ],
@@ -6003,6 +6003,15 @@ local_slide( {
 
         ],
         "accessibility" : [
+          {
+            "text" : "What is to be done?",
+            "targetRectangle" : {
+              "y" : 38.765624999999986,
+              "x" : 441.32799999999986,
+              "width" : 1037.3440000000001,
+              "height" : 132.751220703125
+            }
+          },
           {
             "text" : "Organizing among ourselves against imperialism",
             "targetRectangle" : {
@@ -6029,15 +6038,6 @@ local_slide( {
               "width" : 1647,
               "height" : 129.38250732421881
             }
-          },
-          {
-            "text" : "What is to be done?",
-            "targetRectangle" : {
-              "y" : 38.765624999999986,
-              "x" : 441.32799999999986,
-              "width" : 1037.3440000000001,
-              "height" : 132.751220703125
-            }
           }
         ],
         "baseLayer" : {
@@ -7750,6 +7750,15 @@ local_slide( {
 
         ],
         "accessibility" : [
+          {
+            "text" : "What is to be done?",
+            "targetRectangle" : {
+              "y" : 38.765624999999986,
+              "x" : 441.32799999999986,
+              "width" : 1037.3440000000001,
+              "height" : 132.751220703125
+            }
+          },
           {
             "text" : "Organizing among ourselves against imperialism",
             "targetRectangle" : {
@@ -7785,15 +7794,6 @@ local_slide( {
               "width" : 1149.0599999999999,
               "height" : 129.38250732421875
             }
-          },
-          {
-            "text" : "What is to be done?",
-            "targetRectangle" : {
-              "y" : 38.765624999999986,
-              "x" : 441.32799999999986,
-              "width" : 1037.3440000000001,
-              "height" : 132.751220703125
-            }
           }
         ],
         "baseLayer" : {
@@ -9506,6 +9506,15 @@ local_slide( {
 
         ],
         "accessibility" : [
+          {
+            "text" : "What is to be done?",
+            "targetRectangle" : {
+              "y" : 38.765624999999986,
+              "x" : 441.32799999999986,
+              "width" : 1037.3440000000001,
+              "height" : 132.751220703125
+            }
+          },
           {
             "text" : "Organizing among ourselves against imperialism",
             "targetRectangle" : {
@@ -9550,15 +9559,6 @@ local_slide( {
               "width" : 1247.04,
               "height" : 129.38250732421875
             }
-          },
-          {
-            "text" : "What is to be done?",
-            "targetRectangle" : {
-              "y" : 38.765624999999986,
-              "x" : 441.32799999999986,
-              "width" : 1037.3440000000001,
-              "height" : 132.751220703125
-            }
           }
         ],
         "baseLayer" : {
@@ -11271,6 +11271,15 @@ local_slide( {
 
         ],
         "accessibility" : [
+          {
+            "text" : "What is to be done?",
+            "targetRectangle" : {
+              "y" : 38.765624999999986,
+              "x" : 441.32799999999986,
+              "width" : 1037.3440000000001,
+              "height" : 132.751220703125
+            }
+          },
           {
             "text" : "Organizing among ourselves against imperialism",
             "targetRectangle" : {
@@ -11323,15 +11332,6 @@ local_slide( {
               "x" : 88.898436307906991,
               "width" : 1762.6800000000003,
               "height" : 129.38250732421875
-            }
-          },
-          {
-            "text" : "What is to be done?",
-            "targetRectangle" : {
-              "y" : 38.765624999999986,
-              "x" : 441.32799999999986,
-              "width" : 1037.3440000000001,
-              "height" : 132.751220703125
             }
           }
         ],
@@ -12669,6 +12669,15 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "What is to be done?",
+            "targetRectangle" : {
+              "y" : 38.765624999999986,
+              "x" : 441.32799999999986,
+              "width" : 1037.3440000000001,
+              "height" : 132.751220703125
+            }
+          },
+          {
             "text" : "Organizing among ourselves against imperialism",
             "targetRectangle" : {
               "y" : 188.16406249999994,
@@ -12729,15 +12738,6 @@ local_slide( {
               "x" : 88.898436307906991,
               "width" : 1645.9200000000001,
               "height" : 129.38250732421875
-            }
-          },
-          {
-            "text" : "What is to be done?",
-            "targetRectangle" : {
-              "y" : 38.765624999999986,
-              "x" : 441.32799999999986,
-              "width" : 1037.3440000000001,
-              "height" : 132.751220703125
             }
           }
         ],

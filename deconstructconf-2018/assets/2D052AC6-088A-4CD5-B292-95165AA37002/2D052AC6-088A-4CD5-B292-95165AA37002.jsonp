@@ -32,7 +32,7 @@ local_slide( {
       },
       "605E81077474244318003DC06304B1EF" : {
         "type" : "texture",
-        "index" : 5,
+        "index" : 4,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -45,20 +45,6 @@ local_slide( {
         "height" : 1080
       },
       "F50DAD01D55B0AA4D72BF5F7BA707232" : {
-        "type" : "texture",
-        "index" : 3,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/2D052AC6-088A-4CD5-B292-95165AA37002.pdf"
-        },
-        "width" : 1438,
-        "height" : 899
-      },
-      "20C0FF0AB872126256E8FBFC0489933F" : {
         "type" : "texture",
         "index" : 2,
         "assetRequest" : {
@@ -74,7 +60,7 @@ local_slide( {
       },
       "9735902F3D56F0ABD264B15DFB087075" : {
         "type" : "texture",
-        "index" : 4,
+        "index" : 3,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -911,7 +897,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "20C0FF0AB872126256E8FBFC0489933F"
+                      "texture" : "F50DAD01D55B0AA4D72BF5F7BA707232"
                     }
                   ]
                 }
@@ -1202,21 +1188,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Screen Shot 2018-05-16 at 7.52.30 AM.png",
-            "targetRectangle" : {
-              "y" : 178.41534423828102,
-              "x" : 246.3651123046875,
-              "width" : 1435.269775390625,
-              "height" : 896.00653076171875
-            }
-          },
-          {
             "text" : "Who will you appeal to?",
             "targetRectangle" : {
               "y" : 39.09375,
               "x" : 355.05775999999992,
               "width" : 1209.8844800000002,
               "height" : 130.8161962890625
+            }
+          },
+          {
+            "text" : "Screen Shot 2018-05-16 at 7.52.30 AM.png",
+            "targetRectangle" : {
+              "y" : 178.41534423828102,
+              "x" : 246.3651123046875,
+              "width" : 1435.269775390625,
+              "height" : 896.00653076171875
             }
           }
         ],

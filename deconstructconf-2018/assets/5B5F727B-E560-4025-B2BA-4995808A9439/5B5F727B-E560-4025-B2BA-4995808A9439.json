@@ -1,8 +1,8 @@
 {
   "assets" : {
-    "5BA6DF7ACEF516F7DAB78587CF30CE20" : {
+    "47CEC72191C34A2BC70F15415CB41141" : {
       "type" : "texture",
-      "index" : 0,
+      "index" : 3,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -56,9 +56,9 @@
       "width" : 1920,
       "height" : 1080
     },
-    "47CEC72191C34A2BC70F15415CB41141" : {
+    "EF36C16E07DC52C4DD89E03B30874412" : {
       "type" : "texture",
-      "index" : 3,
+      "index" : 0,
       "assetRequest" : {
         "type" : "slide",
         "state" : "contents",
@@ -354,21 +354,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "“The coalition emerges out of your recognition that it’s fucked up for you, in the same way that we’ve already recognized that it’s fucked up for us. I don’t need your help. I just need you to recognize that this shit is killing you, too, however much more softly.”\\u2028- Fred Moten",
-          "targetRectangle" : {
-            "y" : 272.846435546875,
-            "x" : 143.137939453125,
-            "width" : 1631.2,
-            "height" : 663.760009765625
-          }
-        },
-        {
           "text" : "Which side are you on?",
           "targetRectangle" : {
             "y" : 38.09375,
             "x" : 356.15200000000004,
             "width" : 1207.6959999999999,
             "height" : 132.751220703125
+          }
+        },
+        {
+          "text" : "“The coalition emerges out of your recognition that it’s fucked up for you, in the same way that we’ve already recognized that it’s fucked up for us. I don’t need your help. I just need you to recognize that this shit is killing you, too, however much more softly.”\\u2028- Fred Moten",
+          "targetRectangle" : {
+            "y" : 272.846435546875,
+            "x" : 143.137939453125,
+            "width" : 1631.2,
+            "height" : 663.760009765625
           }
         }
       ],
@@ -603,7 +603,7 @@
                         "pointY" : 0.5
                       }
                     },
-                    "texture" : "5BA6DF7ACEF516F7DAB78587CF30CE20"
+                    "texture" : "EF36C16E07DC52C4DD89E03B30874412"
                   }
                 ]
               }

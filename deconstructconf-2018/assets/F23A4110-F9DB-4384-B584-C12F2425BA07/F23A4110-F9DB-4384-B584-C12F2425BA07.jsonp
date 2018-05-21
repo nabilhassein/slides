@@ -299,21 +299,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Who is \\\"we\\\" in\\u2028\\\"our\\\" relationships?",
-            "targetRectangle" : {
-              "y" : -3.59375,
-              "x" : 448.55200000000008,
-              "width" : 1022.8959999999997,
-              "height" : 268.751220703125
-            }
-          },
-          {
             "text" : "A photo of Tonto and the Lone Ranger.",
             "targetRectangle" : {
               "y" : 1039.9272766113281,
               "x" : 703.28200000000015,
               "width" : 513.43600000000015,
               "height" : 33.18780517578125
+            }
+          },
+          {
+            "text" : "Who is \\\"we\\\" in\\u2028\\\"our\\\" relationships?",
+            "targetRectangle" : {
+              "y" : -3.59375,
+              "x" : 448.55200000000008,
+              "width" : 1022.8959999999997,
+              "height" : 268.751220703125
             }
           }
         ],
@@ -1274,21 +1274,21 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Who is \\\"we\\\" in\\u2028\\\"our\\\" relationships?",
-            "targetRectangle" : {
-              "y" : -3.59375,
-              "x" : 448.55200000000008,
-              "width" : 1022.8959999999997,
-              "height" : 268.751220703125
-            }
-          },
-          {
             "text" : "A photo of Tonto and the Lone Ranger.",
             "targetRectangle" : {
               "y" : 1039.9272766113281,
               "x" : 703.28200000000015,
               "width" : 513.43600000000015,
               "height" : 33.18780517578125
+            }
+          },
+          {
+            "text" : "Who is \\\"we\\\" in\\u2028\\\"our\\\" relationships?",
+            "targetRectangle" : {
+              "y" : -3.59375,
+              "x" : 448.55200000000008,
+              "width" : 1022.8959999999997,
+              "height" : 268.751220703125
             }
           }
         ],

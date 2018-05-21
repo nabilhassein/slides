@@ -354,21 +354,21 @@
       ],
       "accessibility" : [
         {
-          "text" : "Ice Apocalypse",
-          "targetRectangle" : {
-            "y" : 38.09375,
-            "x" : 562.56799999999998,
-            "width" : 794.86400000000003,
-            "height" : 132.751220703125
-          }
-        },
-        {
           "text" : "pineislandcalvingfront.jpg",
           "targetRectangle" : {
             "y" : 175.6953125,
             "x" : 160,
             "width" : 1600,
             "height" : 900
+          }
+        },
+        {
+          "text" : "Ice Apocalypse",
+          "targetRectangle" : {
+            "y" : 38.09375,
+            "x" : 562.56799999999998,
+            "width" : 794.86400000000003,
+            "height" : 132.751220703125
           }
         }
       ],

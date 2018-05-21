@@ -1809,15 +1809,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Data centers consume ~200-300 TWH\/yr, or 1-2% of global electricity",
-            "targetRectangle" : {
-              "y" : 217.16638183593682,
-              "x" : 173.8359363079071,
-              "width" : 539.63999999999999,
-              "height" : 286.32000732421875
-            }
-          },
-          {
             "text" : "Computing contributes to climate change",
             "targetRectangle" : {
               "y" : 5.09375,
@@ -1833,6 +1824,15 @@ local_slide( {
               "x" : 818.91412353515625,
               "width" : 1106.4385986328125,
               "height" : 962.900634765625
+            }
+          },
+          {
+            "text" : "Data centers consume ~200-300 TWH\/yr, or 1-2% of global electricity",
+            "targetRectangle" : {
+              "y" : 217.16638183593682,
+              "x" : 173.8359363079071,
+              "width" : 539.63999999999999,
+              "height" : 286.32000732421875
             }
           }
         ],
@@ -3144,24 +3144,6 @@ local_slide( {
         ],
         "accessibility" : [
           {
-            "text" : "Data centers consume ~200-300 TWH\/yr, or 1-2% of global electricity",
-            "targetRectangle" : {
-              "y" : 217.16638183593682,
-              "x" : 173.8359363079071,
-              "width" : 539.63999999999999,
-              "height" : 286.32000732421875
-            }
-          },
-          {
-            "text" : "More emissions than aviation or shipping by 2020",
-            "targetRectangle" : {
-              "y" : 505.16638183593682,
-              "x" : 173.8359363079071,
-              "width" : 461.34000000000003,
-              "height" : 273.38250732421875
-            }
-          },
-          {
             "text" : "Computing contributes to climate change",
             "targetRectangle" : {
               "y" : 5.09375,
@@ -3177,6 +3159,24 @@ local_slide( {
               "x" : 818.91412353515625,
               "width" : 1106.4385986328125,
               "height" : 962.900634765625
+            }
+          },
+          {
+            "text" : "Data centers consume ~200-300 TWH\/yr, or 1-2% of global electricity",
+            "targetRectangle" : {
+              "y" : 217.16638183593682,
+              "x" : 173.8359363079071,
+              "width" : 539.63999999999999,
+              "height" : 286.32000732421875
+            }
+          },
+          {
+            "text" : "More emissions than aviation or shipping by 2020",
+            "targetRectangle" : {
+              "y" : 505.16638183593682,
+              "x" : 173.8359363079071,
+              "width" : 461.34000000000003,
+              "height" : 273.38250732421875
             }
           }
         ],
@@ -4403,6 +4403,24 @@ local_slide( {
         ],
         "accessibility" : [
           {
+            "text" : "Computing contributes to climate change",
+            "targetRectangle" : {
+              "y" : 5.09375,
+              "x" : 59.042880000000196,
+              "width" : 1801.9142399999996,
+              "height" : 112.271025390625
+            }
+          },
+          {
+            "text" : "communication technology share of global electricity usage.png",
+            "targetRectangle" : {
+              "y" : 117.67193603515625,
+              "x" : 818.91412353515625,
+              "width" : 1106.4385986328125,
+              "height" : 962.900634765625
+            }
+          },
+          {
             "text" : "Data centers consume ~200-300 TWH\/yr, or 1-2% of global electricity",
             "targetRectangle" : {
               "y" : 217.16638183593682,
@@ -4427,24 +4445,6 @@ local_slide( {
               "x" : 173.8359363079071,
               "width" : 507.72000000000003,
               "height" : 201.38250732421875
-            }
-          },
-          {
-            "text" : "Computing contributes to climate change",
-            "targetRectangle" : {
-              "y" : 5.09375,
-              "x" : 59.042880000000196,
-              "width" : 1801.9142399999996,
-              "height" : 112.271025390625
-            }
-          },
-          {
-            "text" : "communication technology share of global electricity usage.png",
-            "targetRectangle" : {
-              "y" : 117.67193603515625,
-              "x" : 818.91412353515625,
-              "width" : 1106.4385986328125,
-              "height" : 962.900634765625
             }
           }
         ],

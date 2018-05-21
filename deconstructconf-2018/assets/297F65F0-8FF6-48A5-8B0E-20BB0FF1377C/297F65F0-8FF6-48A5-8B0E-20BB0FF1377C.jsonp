@@ -2,9 +2,9 @@ local_slide( {
   "name" : "297F65F0-8FF6-48A5-8B0E-20BB0FF1377C",
   "json" : {
     "assets" : {
-      "E6BDC9F3847DD47911C299F5EE31A552" : {
+      "24740F7E99EF7FD3DDD1F0AA3A147306" : {
         "type" : "texture",
-        "index" : 3,
+        "index" : 2,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -13,8 +13,8 @@ local_slide( {
         "url" : {
           "native" : "assets\/297F65F0-8FF6-48A5-8B0E-20BB0FF1377C.pdf"
         },
-        "width" : 1920,
-        "height" : 1080
+        "width" : 1589,
+        "height" : 204
       },
       "5BA6DF7ACEF516F7DAB78587CF30CE20" : {
         "type" : "texture",
@@ -30,9 +30,9 @@ local_slide( {
         "width" : 1920,
         "height" : 1080
       },
-      "CDB79432615235B5D8ABDA9422AAE4A0" : {
+      "6897E71B3065EC230C5FC99A03AEF5A5" : {
         "type" : "texture",
-        "index" : 2,
+        "index" : 3,
         "assetRequest" : {
           "type" : "slide",
           "state" : "contents",
@@ -41,8 +41,22 @@ local_slide( {
         "url" : {
           "native" : "assets\/297F65F0-8FF6-48A5-8B0E-20BB0FF1377C.pdf"
         },
-        "width" : 1566,
-        "height" : 133
+        "width" : 1920,
+        "height" : 1080
+      },
+      "FF3F009426D101A0CB884AC2C75E2E8C" : {
+        "type" : "texture",
+        "index" : 4,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/297F65F0-8FF6-48A5-8B0E-20BB0FF1377C.pdf"
+        },
+        "width" : 1920,
+        "height" : 1080
       },
       "C09B8D422AC799F9B56A0D1C113EEEED" : {
         "type" : "texture",
@@ -57,20 +71,6 @@ local_slide( {
         },
         "width" : 534,
         "height" : 107
-      },
-      "29F0B6E5816BB255519427DF6C53E0A8" : {
-        "type" : "texture",
-        "index" : 4,
-        "assetRequest" : {
-          "type" : "slide",
-          "state" : "contents",
-          "slide" : "none"
-        },
-        "url" : {
-          "native" : "assets\/297F65F0-8FF6-48A5-8B0E-20BB0FF1377C.pdf"
-        },
-        "width" : 1920,
-        "height" : 1080
       }
     },
     "events" : [
@@ -254,7 +254,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "E6BDC9F3847DD47911C299F5EE31A552"
+                      "texture" : "6897E71B3065EC230C5FC99A03AEF5A5"
                     },
                     {
                       "animations" : [
@@ -335,7 +335,7 @@ local_slide( {
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "29F0B6E5816BB255519427DF6C53E0A8"
+                      "texture" : "FF3F009426D101A0CB884AC2C75E2E8C"
                     }
                   ]
                 }
@@ -353,16 +353,43 @@ local_slide( {
         "automaticPlay" : false,
         "hyperlinks" : [
           {
-            "url" : "https:\/\/nabilhassein.github.io\/slides\/deconstructconf-2018",
+            "url" : "https:\/\/nabilhassein.github.io\/slides\/deconstructconf-2018\/",
             "targetRectangle" : {
-              "y" : 774.5,
-              "x" : 177.05999999999983,
-              "width" : 1565.8799999999997,
+              "y" : 774.49999999999989,
+              "x" : 167.0699999999996,
+              "width" : 1585.8599999999997,
               "height" : 70.32000732421875
             }
           }
         ],
         "accessibility" : [
+          {
+            "text" : "@nabilhassein",
+            "targetRectangle" : {
+              "y" : 702.49999999999989,
+              "x" : 769.85999999999956,
+              "width" : 380.27999999999986,
+              "height" : 70.32000732421875
+            }
+          },
+          {
+            "text" : "https:\/\/nabilhassein.github.io\/slides\/deconstructconf-2018\/",
+            "targetRectangle" : {
+              "y" : 774.49999999999989,
+              "x" : 167.0699999999996,
+              "width" : 1585.8599999999997,
+              "height" : 70.32000732421875
+            }
+          },
+          {
+            "text" : "(don't forget the trailing slash)",
+            "targetRectangle" : {
+              "y" : 846.49999999999989,
+              "x" : 562.46999999999946,
+              "width" : 795.06000000000029,
+              "height" : 70.32000732421875
+            }
+          },
           {
             "text" : "Thank you",
             "targetRectangle" : {
@@ -370,24 +397,6 @@ local_slide( {
               "x" : 691.31200000000001,
               "width" : 537.37600000000009,
               "height" : 132.751220703125
-            }
-          },
-          {
-            "text" : "@nabilhassein",
-            "targetRectangle" : {
-              "y" : 702.5,
-              "x" : 769.85999999999979,
-              "width" : 380.28000000000009,
-              "height" : 70.32000732421875
-            }
-          },
-          {
-            "text" : "https:\/\/nabilhassein.github.io\/slides\/deconstructconf-2018",
-            "targetRectangle" : {
-              "y" : 774.5,
-              "x" : 177.05999999999983,
-              "width" : 1565.8799999999997,
-              "height" : 70.32000732421875
             }
           }
         ],
@@ -887,10 +896,10 @@ local_slide( {
                     "rotation" : 0,
                     "scale" : 1,
                     "position" : {
-                      "pointX" : 946.5859375,
-                      "pointY" : 763.375
+                      "pointX" : 923.13671874999909,
+                      "pointY" : 798.87499999999977
                     },
-                    "width" : 1566,
+                    "width" : 1589,
                     "sublayerTransform" : [
                       1,
                       0,
@@ -917,7 +926,7 @@ local_slide( {
                     },
                     "opacity" : 1,
                     "edgeAntialiasingMask" : 251658240,
-                    "height" : 133,
+                    "height" : 204,
                     "hidden" : false,
                     "anchorPoint" : {
                       "pointX" : 0.5,
@@ -934,8 +943,8 @@ local_slide( {
                       ],
                       "texturedRectangle" : {
                         "singleTextureOpacity" : 1,
-                        "textXHeight" : 0.2332330827067669,
-                        "textBaseline" : 0.88752000851738722,
+                        "textXHeight" : 0.15205882352941177,
+                        "textBaseline" : 0.93156941731770782,
                         "isBackgroundTexture" : true,
                         "isVerticalText" : false,
                         "textColor" : [
@@ -959,10 +968,10 @@ local_slide( {
                         "rotation" : 0,
                         "scale" : 1,
                         "position" : {
-                          "pointX" : 796.4140625,
-                          "pointY" : 83.625
+                          "pointX" : 832.86328125000091,
+                          "pointY" : 119.12500000000023
                         },
-                        "width" : 1566,
+                        "width" : 1589,
                         "sublayerTransform" : [
                           1,
                           0,
@@ -989,14 +998,14 @@ local_slide( {
                         },
                         "opacity" : 1,
                         "edgeAntialiasingMask" : 0,
-                        "height" : 133,
+                        "height" : 204,
                         "hidden" : false,
                         "anchorPoint" : {
                           "pointX" : 0.5,
                           "pointY" : 0.5
                         }
                       },
-                      "texture" : "CDB79432615235B5D8ABDA9422AAE4A0"
+                      "texture" : "24740F7E99EF7FD3DDD1F0AA3A147306"
                     }
                   ]
                 }
